@@ -10,3 +10,7 @@ I am an Electronic and Computer Engineering student at Wrocław University of Sc
 ![KiCad](https://img.shields.io/badge/KiCad-314DA0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+## Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymon.wandor1@gmail.com)
