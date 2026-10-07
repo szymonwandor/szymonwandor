@@ -1,6 +1,13 @@
 ## Hi, I'm Szymon 👋
 
-I am an Electronic and Computer Engineering student at Wrocław University of Science and Technology, currently pursuing my **Bachelor of Engineering**. 
+Electronic and Computer Engineering student (B.Eng) at Wrocław University of Science and Technology. Focused on embedded software architecture and real-time DSP algorithms.
+
+## What I'm currently working on
+
+**Microcontroller-based DSP Guitar Pedal**
+Developing real-time audio processing software on an ARM Cortex-M4 microcontroller.
+* **Embedded Architecture (C):** Building a hardware-synchronized audio pipeline on the **STM32F407**, utilizing DMA and I2S for jitter-free communication with an external audio codec.
+* **Digital Signal Processing:** Implementing real-time, math-intensive DSP algorithms (IIR filtering, waveshaping) leveraging the hardware FPU.
 
 ## Tech Stack
 
