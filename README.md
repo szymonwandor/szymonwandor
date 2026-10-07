@@ -7,7 +7,7 @@ Electronic and Computer Engineering student (B.Eng) at Wrocław University of Sc
 **Microcontroller-based DSP Guitar Pedal**
 Developing real-time audio processing software on an ARM Cortex-M4 microcontroller.
 * **Embedded Architecture (C):** Building a hardware-synchronized audio pipeline on the **STM32F407**, utilizing DMA and I2S for jitter-free communication with an external audio codec.
-* **Digital Signal Processing:** Implementing real-time, math-intensive DSP algorithms (IIR filtering, waveshaping) leveraging the hardware FPU.
+* **Digital Signal Processing:** Implementing real-time, math-intensive DSP algorithms (IIR filtering, waveshaping).
 
 ## Tech Stack
 
